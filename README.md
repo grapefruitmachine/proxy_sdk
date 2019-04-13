@@ -13,6 +13,6 @@
 2.  Add the dependency in app build.gradle
 ```gradle
 	dependencies {
-	        implementation 'com.github.grapefruitmachine:proxy_sdk:0.1.0'
+	        implementation 'com.github.grapefruitmachine:proxy_sdk:1.0.0'
 	}
 ```
