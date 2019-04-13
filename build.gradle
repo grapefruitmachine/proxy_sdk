@@ -19,9 +19,6 @@ allprojects {
     repositories {
         google()
         jcenter()
-        maven{
-            url 'http://192.168.0.181:8081/nexus/content/repositories/releases/'
-        }
     }
 }
 
